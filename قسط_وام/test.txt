@@ -1,0 +1,4 @@
+mablaq:480
+sal:10
+sod:18
+javab= 8.648
